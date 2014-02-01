@@ -1,0 +1,1 @@
+"Flashcards is a program to study from sets of flashcards."
